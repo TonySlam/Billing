@@ -8,7 +8,7 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            Add
+            Edit
             <small>Service</small>
         </h1>
         <ol class="breadcrumb">
@@ -35,7 +35,7 @@
                     <!-- Your Page Content Here -->
                     <div class="box box-info">
                         <div class="box-header">
-                            <h3 class="box-title">Employee Rate</h3>
+                            <h3 class="box-title">Service Edit</h3>
                         </div>
                         <div class="box-body">
 
